@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EOTACD", "EOTACD\EOTACD.csproj", "{E69C5F38-C54C-4255-BCC8-D760D9771348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E69C5F38-C54C-4255-BCC8-D760D9771348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E69C5F38-C54C-4255-BCC8-D760D9771348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E69C5F38-C54C-4255-BCC8-D760D9771348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E69C5F38-C54C-4255-BCC8-D760D9771348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85C7C5ED-1910-46A2-A5B5-699285CF6239}
+	EndGlobalSection
+EndGlobal
